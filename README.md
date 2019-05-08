@@ -1,6 +1,7 @@
 #
 # Student Acceptance Classification with a Neural Network
-## Supervised Learning
+
+This project demonstrates how to train a neural network by hand in order to solve a classification problem. In this case, the neural net is trained to predict the admissions decision to UCLA based on several data points.
 
 ### Install
 
